@@ -1,9 +1,11 @@
-### Hi there, I'm Dan - aka [dguyentu] <img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px">
+Full-Stack Software Developer | 8+ Years of Scalable Web Solutions
 
-### I'm a Developer, Fitness and Outdoors Enthusiast.
+I specialize in building high-performance web applications that bridge the gap between complex backend architecture and seamless user experiences. With over 8 years in the industry, I’ve delivered scalable systems across healthcare, education, and retail.
 
-- 🔭 I’m currently working on finding a software dev company that shares the same values as I.
-- 🌱 I’m currently learning data strutures & algorithms- I am creating visual metaphors for jr devs.
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
 
+
+Most recently, I’ve focused on digital transformation within the security surveillance sector, developing a customer portal for both private residential and large-scale commercial clients. I’m passionate about building tech that is as robust as it is intuitive.
+
+
+
+Let’s connect to discuss technology, innovation, or potential collaborations.
